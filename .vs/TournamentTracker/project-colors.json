@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eed7ad7e-0bb5-4c2f-9bee-1e556a5d6573": {
+      "ProjectGuid": "eed7ad7e-0bb5-4c2f-9bee-1e556a5d6573",
+      "DisplayName": "TrackerLibrary",
+      "ColorIndex": 0
+    },
+    "d4463b4c-65c8-4d4c-a747-18fcced06b2c": {
+      "ProjectGuid": "d4463b4c-65c8-4d4c-a747-18fcced06b2c",
+      "DisplayName": "TrackerUI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
